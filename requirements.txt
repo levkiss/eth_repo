@@ -1,0 +1,9 @@
+pandas
+configparser
+#subprocess
+#os
+#datetime
+web3
+ethereum-etl
+ethereum-etl[stream]
+clickhouse-driver
